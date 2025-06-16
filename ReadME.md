@@ -48,10 +48,12 @@ All configurations are centralized in `config.py`:
 
 ### Training
 
-Run the main training script (using uv with my conda env) :
+Run the main training script (using uv with my conda env ) :
 
 ```bash
-uv run main.py  
+ uv run main.py
+ or 
+ python main.py
 ```
 
 The script will:
